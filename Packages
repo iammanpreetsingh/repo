@@ -2,7 +2,7 @@ Package: com.iammanpreetsingh.popcorntime
 Version: 1.0
 Section: Entertainment
 Maintainer: Manpreet Singh
-Depends: firmware (<7.0)
+Depends: firmware (<13.5)
 Architecture: iphoneos-arm
 Filename: ./debs/com.iammanpreetsingh.popcorntime.deb
 Size: 36874190
