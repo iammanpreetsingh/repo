@@ -1,0 +1,23 @@
+<package>
+    <id>com.iammanpreetsingh.popcorntime</id>
+	<name>PopcornTime</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+            <maxiOS>11.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Watch free movies and TV shows on Popcorn Time instantly in HD, with subtitles, for free!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
