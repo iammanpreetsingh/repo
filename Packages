@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.iammanpreetsingh.popcorntime
+Version: 1.0
+Section: Entertainment
+Maintainer: Manpreet Singh
+Depends: firmware (<11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.iammanpreetsingh.popcorntime.deb
+Size: 36874190
+MD5sum: 82fe40a4b48a4301bf4e457858f8c7c1
+Description: Watch free movies and TV shows on Popcorn Time instantly in HD, with subtitles, for free!
+Name: PopcornTime
+Author: @thisismanpreets
+Depiction:
