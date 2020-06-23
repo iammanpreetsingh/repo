@@ -1,0 +1,26 @@
+<package>
+    <id>com.iammanpreetsingh.popcorntime</id>
+	<name>iTorrent</name>
+	<version>1.8</version>
+	<compatibility>
+		<firmware>
+            <miniOS>11.0</miniOS>
+            <maxiOS>13.5</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Download Torrent through your iDevice via .torrent files or magnet urls. Background Downloading is also available. Modern iTorrent app for latest devices. Created by XITRIX. Converted into deb by me.
+            
+            IMPORTANT: RUN UICACHE IF THE ICON DOESN'T SHOW ON THE HOMESCREEN!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

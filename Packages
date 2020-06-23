@@ -11,3 +11,17 @@ Description: Watch free movies and TV shows on Popcorn Time instantly in HD, wit
 Name: PopcornTime
 Author: @thisismanpreets
 Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.popcorntime
+
+Package: com.iammanpreetsingh.itorrent
+Version: 1.8
+Section: Multimedia
+Maintainer: Manpreet Singh
+Depends: mobilesubstrate, firmware (>=12.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.iammanpreetsingh.itorrent.deb
+Size: 20667322
+MD5sum: bd3e4f3f64d6fb0b1bfb081cd2e20580
+Description: Download Torrent through your iDevice via .torrent files or magnet urls. Background Downloading is also available. Modern iTorrent app for latest devices. Created by XITRIX. Converted into deb by me.
+Name: iTorrent
+Author: @thisismanpreets
+Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.itorrent
