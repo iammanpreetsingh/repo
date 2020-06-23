@@ -3,7 +3,7 @@ This is my Gihub Repo. What will I host here? I don't know. We will get to that 
 
 ## Bug Reports
 
-The best way to report a bug is to open an issue [here](https://github.com/wstyres/Zebra/issues/new?assignees=wstyres&labels=bug&template=bug_report.md&title=).
+The best way to report a bug is to open an issue [here](https://github.com/iammanpreetsingh/repo/issues/new?assignees=iammanpreetsingh&labels=bug&template=bug_report.md&title=).
 
 Fill out the required fields to the best of your ability in order to have a better chance of getting your issue fixed.
 
@@ -13,7 +13,7 @@ You must create a GitHub account to create an issue. If you do not have one, it 
 
 ## Feature Requests
 
-Feature requests are welcome as well and are also tracked through GitHub issues [here](https://github.com/wstyres/Zebra/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=).
+Feature requests are welcome as well and are also tracked through GitHub issues [here](https://github.com/iammanpreetsingh/repo/issues/new?assignees=iammanpreetsingh&labels=enhancement&template=feature_request.md&title=).
 
 Fill out the required fields to the best of your ability (mockups, screenshots, descriptions, etc.).
 
