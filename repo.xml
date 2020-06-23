@@ -18,7 +18,7 @@
         <link>
         <name>Visit my Website</name>
         <url>https://www.iammanpreetsingh.com</url>
-            <iconclass>fa fa-instagram</iconclass>
+            <iconclass>fa fa-globe</iconclass>
         </link>
 	</footerlinks>
 </repo>
