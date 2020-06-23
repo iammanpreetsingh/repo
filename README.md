@@ -1,5 +1,5 @@
 # Welcome to my Repo!
-This is my Gihub Repo. What will I host here? I don't know. We will get to that in future. But for now, there are some tweaks that are not available anywhere or are ipas that are converted to deb so users can install. Generally, this repo is just for me but why not everyone use it? So here you go. Install it in your favorite Package Manager and use the tweaks and other utilities that I have on this repository. This is my repo link by the way: [repo](https://iammanpreetsingh.github.io/repo/).
+This is my Github Repo. What will I host here? I don't know. We will get to that in future. But for now, there are some tweaks that are not available anywhere or are ipas that are converted to deb so users can install. Generally, this repo is just for me but why not everyone use it? So here you go. Install it in your favorite Package Manager and use the tweaks and other utilities that I have on this repository. This is my repo link by the way: [repo](https://iammanpreetsingh.github.io/repo/).
 
 ## Bug Reports
 
