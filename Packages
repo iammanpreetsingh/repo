@@ -39,3 +39,17 @@ Description: The Best Entertainment App for you and your Family.
 Name: MediaBoxHD
 Author: @thisismanpreets
 Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.mediaboxhd
+
+Package: com.iammanpreetsingh.movieboxpro
+Version: 6.5
+Section: Entertainment
+Maintainer: Manpreet Singh
+Depends: mobilesubstrate, firmware (>=13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.iammanpreetsingh.movieboxpro.deb
+Size: 42614976
+MD5sum: a1e4c847b61bab7db04179be411d6905
+Description: Best App to watch movies and TV shows on mobile
+Name: MovieBoxPro
+Author: @thisismanpreets
+Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.movieboxpro
