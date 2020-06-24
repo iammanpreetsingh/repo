@@ -25,3 +25,17 @@ Description: Download Torrent through your iDevice via .torrent files or magnet 
 Name: iTorrent
 Author: @thisismanpreets
 Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.itorrent
+
+Package: com.iammanpreetsingh.mediaboxhd
+Version: 2.4.9.2
+Section: Entertainment
+Maintainer: Manpreet Singh
+Depends: mobilesubstrate, firmware (>=12.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.iammanpreetsingh.mediaboxhd.deb
+Size: 56859062
+MD5sum: ea2cbcc035eb9713d6ab95c0ab96c931
+Description: The Best Entertainment App for you and your Family.
+Name: MediaBoxHD
+Author: @thisismanpreets
+Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.mediaboxhd
