@@ -53,3 +53,17 @@ Description: Best App to watch movies and TV shows on mobile
 Name: MovieBoxPro
 Author: @thisismanpreets
 Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.movieboxpro
+
+Package: com.iammanpreetsingh.appcake
+Version: 7.0.3
+Section: Utilities
+Maintainer: Manpreet Singh
+Depends: mobilesubstrate, firmware (>=12.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.iammanpreetsingh.appcake.deb
+Size: 12757256
+MD5sum: 909238bc345760dc3d1e8ef53b37e090
+Description: Resign your IPA's via AppCake
+Name: AppCake
+Author: @thisismanpreets
+Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.appcake

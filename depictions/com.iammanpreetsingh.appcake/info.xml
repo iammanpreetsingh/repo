@@ -1,0 +1,25 @@
+<package>
+    <id>com.iammanpreetsingh.appcake</id>
+	<name>AppCake</name>
+    <version>7.0.3</version>
+	<compatibility>
+		<firmware>
+            <miniOS>12.0</miniOS>
+            <maxiOS>13.5</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+        <description>Resign IPA's via AppCake
+            IMPORTANT: RUN UICACHE IF THE ICON DOESN'T SHOW ON THE HOMESCREEN!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
