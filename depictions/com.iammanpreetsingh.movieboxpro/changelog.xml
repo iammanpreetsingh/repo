@@ -1,6 +1,8 @@
 <changelog>
 	<changes>
-        <version>6.5</version>
+        <version>7.3</version>
 		<change>Initial release</change>
+        <change>You can choose additional audio.
+        Optimized multi-voice selection</change>
 	</changes>
 </changelog>
