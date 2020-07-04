@@ -1,0 +1,25 @@
+<package>
+    <id>com.iammanpreetsingh.delta</id>
+	<name>Delta</name>
+    <version>1.1.2</version>
+	<compatibility>
+		<firmware>
+            <miniOS>12.2</miniOS>
+            <maxiOS>13.5</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+        <description>Classic Games in your Pocket. Application created by Riley Testut.
+            IMPORTANT: RUN UICACHE IF THE ICON DOESN'T SHOW ON THE HOMESCREEN!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+        <change>Fixes crashes when running on iOS13.3.1</change>
+	</changelog>
+	<links></links>
+</package>

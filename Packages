@@ -81,3 +81,17 @@ Description: Unlock Twitter's hidden Features
 Name: Twttr Labs
 Author: @thisismanpreets
 Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.twttrlabs
+
+Package: com.iammanpreetsingh.delta
+Version: 1.1.2
+Section: Applications
+Maintainer: Manpreet Singh
+Depends: mobilesubstrate, firmware (>=12.2)
+Architecture: iphoneos-arm
+Filename: ./debs/com.iammanpreetsingh.delta.deb
+Size: 17307256
+MD5sum: 8a8d76c0700eca7167886cf3691f1861
+Description: Classic Games in your Pocket
+Name: Delta
+Author: @thisismanpreets
+Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.delta
