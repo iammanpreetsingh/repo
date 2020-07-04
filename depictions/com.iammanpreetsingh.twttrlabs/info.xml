@@ -1,0 +1,27 @@
+<package>
+    <id>com.iammanpreetsingh.twttrlabs</id>
+	<name>Twttr Labs</name>
+    <version>1.0</version>
+	<compatibility>
+		<firmware>
+            <miniOS>11.0</miniOS>
+            <maxiOS>13.5</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+        <description>Unlock Twitter's Hidden Features. Created by Chloee. Maintaining by me after her permission.
+            
+            IMPORTANT: Only works with Twitter version v8.2.6 or below.
+            </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

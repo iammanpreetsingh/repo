@@ -67,3 +67,17 @@ Description: Resign your IPA's via AppCake
 Name: AppCake
 Author: @thisismanpreets
 Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.appcake
+
+Package: com.iammanpreetsingh.twttrlabs
+Version: 1.0
+Section: Tweaks
+Maintainer: Aesthyrica & Manpreet Singh
+Depends: mobilesubstrate, firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.iammanpreetsingh.twttrlabs.deb
+Size: 255866
+MD5sum: 93c54d52dc25e01fb2067b9326b77749
+Description: Unlock Twitter's hidden Features
+Name: Twttr Labs
+Author: @thisismanpreets
+Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.twttrlabs
