@@ -1,7 +1,7 @@
 <package>
     <id>com.iammanpreetsingh.movieboxpro</id>
 	<name>MovieBoxPro</name>
-    <version>7.3</version>
+    <version>7.4</version>
 	<compatibility>
 		<firmware>
             <miniOS>12.0</miniOS>
@@ -19,8 +19,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-        <change>You can choose additional audio.
-        Optimized multi-voice selection</change>
+        <change>Fix Bugs</change>
 	</changelog>
 	<links></links>
 </package>
