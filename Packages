@@ -47,8 +47,8 @@ Maintainer: Manpreet Singh
 Depends: mobilesubstrate, firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.iammanpreetsingh.movieboxpro.deb
-Size: 54371116
-MD5sum: c4c55632e1ce040dcb920ab7b7c46cb1
+Size: 71066404
+MD5sum: ef21b1f3f2f88e3d47f502aea9f9c2a9
 Description: Best App to watch movies and TV shows on mobile
 Name: MovieBoxPro
 Author: @thisismanpreets
