@@ -1,0 +1,26 @@
+<package>
+    <id>com.iammanpreetsingh.appdb</id>
+	<name>Appdb</name>
+    <version>1.0.4</version>
+	<compatibility>
+		<firmware>
+            <miniOS>10.0</miniOS>
+            <maxiOS>13.5.1</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+        <description>The best store to Install apps with or without jailbreak.
+            
+            <p>IMPORTANT: RUN UICACHE IF THE ICON DOESN'T SHOW ON THE HOMESCREEN!</p></description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links></links>
+</package>
