@@ -95,3 +95,17 @@ Description: Best App to watch Movies and TV shows on your mobile with your Fami
 Name: MovieBoxPro
 Author: @thisismanpreets
 Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.movieboxpro
+
+Package: com.iammanpreetsingh.appdb
+Version: 1.0.4
+Section: Utilities
+Maintainer: Manpreet Singh
+Depends: mobilesubstrate, firmware (>=10.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.iammanpreetsingh.appdb.deb
+Size: 23358454
+MD5sum: 9e45810a1d54643cb9b70d8238dc5f11
+Description: The best store to Install apps with or without Jailbreak.
+Name: Appdb
+Author: @thisismanpreets
+Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.appdb
