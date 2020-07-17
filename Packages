@@ -100,7 +100,7 @@ Package: com.iammanpreetsingh.appdb
 Version: 1.0.4
 Section: Utilities
 Maintainer: Manpreet Singh
-Depends: mobilesubstrate, firmware (>=10.0)
+Depends: mobilesubstrate, firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.iammanpreetsingh.appdb.deb
 Size: 23358454
