@@ -83,14 +83,14 @@ Author: @thisismanpreets
 Depiction: https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.delta
 
 Package: com.iammanpreetsingh.movieboxpro
-Version: 7.4
+Version: 7.6
 Section: Entertainment
 Maintainer: Manpreet Singh
 Depends: mobilesubstrate, firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.iammanpreetsingh.movieboxpro.deb
-Size: 71066476
-MD5sum: af73aa823464d1ec9bdaed0f17a49c69
+Size: 71957100
+MD5sum: 928b1700962770c1ef452d2a347cb70a
 Description: Best App to watch Movies and TV shows on your mobile with your Family.
 Name: MovieBoxPro
 Author: @thisismanpreets
