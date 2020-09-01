@@ -17,7 +17,16 @@
         <description>Best App to Watch Movies and TV Shows with your Family.
             IMPORTANT: RUN UICACHE IF THE ICON DOESN'T SHOW ON THE HOMESCREEN!</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+    <screenshot>
+        <description>MovieBoxPro HomePage</description>
+        <image>1.jpg</image>
+    </screenshot>
+    <screenshot>
+            <description>MovieBoxPro version</description>
+            <image>2.jpg</image>
+        </screenshot>
+    </screenshots>
 	<changelog>
         <change>Version 7.6 Fix Bugs</change>
         <change>Fix Bugs</change>
