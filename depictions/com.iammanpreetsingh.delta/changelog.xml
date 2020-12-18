@@ -1,4 +1,8 @@
 <changelog>
+<changes>
+        <version>1.3b2</version>
+		<change>Fixes crashes when running on iOS14.2</change>
+	</changes>
 	<changes>
         <version>1.1.2</version>
 		<change>Fixes crashes when running on iOS13.3.1</change>

@@ -1,11 +1,11 @@
 <package>
     <id>com.iammanpreetsingh.delta</id>
 	<name>Delta</name>
-    <version>1.1.2</version>
+    <version>1.3b2</version>
 	<compatibility>
 		<firmware>
             <miniOS>12.2</miniOS>
-            <maxiOS>13.5</maxiOS>
+            <maxiOS>14.2</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
             <!--
             for otherVersions, you can put either unsupported or unconfirmed
@@ -19,7 +19,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-        <change>Fixes crashes when running on iOS13.3.1</change>
+        <change>Fixes crashes when running on iOS14.2</change>
 	</changelog>
 	<links></links>
 </package>
