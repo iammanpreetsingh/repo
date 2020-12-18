@@ -1,4 +1,8 @@
 <changelog>
+<changes>
+		<version>1.8.3</version>
+		<change>Patreon fix on iOS 14 and Libtorrent updated to 1.2.10</change>
+	</changes>
 	<changes>
 		<version>1.8.</version>
 		<change>Initial release</change>

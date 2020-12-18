@@ -1,11 +1,11 @@
 <package>
     <id>com.iammanpreetsingh.popcorntime</id>
 	<name>iTorrent</name>
-	<version>1.8</version>
+	<version>1.8.3</version>
 	<compatibility>
 		<firmware>
             <miniOS>11.0</miniOS>
-            <maxiOS>13.5</maxiOS>
+            <maxiOS>14.2</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
             <!--
             for otherVersions, you can put either unsupported or unconfirmed
@@ -20,7 +20,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Libtorrent updated to 1.2.10</change>
 	</changelog>
 	<links></links>
 </package>
