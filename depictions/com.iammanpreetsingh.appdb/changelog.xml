@@ -1,4 +1,11 @@
 <changelog>
+<changes>
+        <version>1.0.5</version>
+		<change>Updated API endpoint to v1.3
+Updated Spanish localization
+Added German localization (thanks to @cryllical)
+Updated endpoint for OTA distribution</change>
+	</changes>
 	<changes>
         <version>1.0.4</version>
 		<change>Initial Release</change>

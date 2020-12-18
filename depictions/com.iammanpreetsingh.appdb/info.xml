@@ -1,11 +1,11 @@
 <package>
     <id>com.iammanpreetsingh.appdb</id>
 	<name>Appdb</name>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
 	<compatibility>
 		<firmware>
             <miniOS>10.0</miniOS>
-            <maxiOS>13.5.1</maxiOS>
+            <maxiOS>14.3</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
             <!--
             for otherVersions, you can put either unsupported or unconfirmed
@@ -20,7 +20,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Updated API endpoint to v1.3</change>
 	</changelog>
 	<links></links>
 </package>
