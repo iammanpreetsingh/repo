@@ -4,4 +4,12 @@
 		<change>Version 7.6 Fix Bugs</change>
         <change>Fix Bugs</change>
 	</changes>
+	<changes>
+        <version>8.1</version>
+		<change>Version 8.1 Fix Bugs</change>
+        <change>Support 4k, 8k, hdr, Add family plan</change>
+		<change>Add subscene and google search for subtitles</change>
+		<change>Add a switch in settings to control tv shows play next episode automatically</change>
+		<change>Fix Other Bugs</change>
+	</changes>
 </changelog>
