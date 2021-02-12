@@ -1,7 +1,7 @@
 <changelog>
-	<changes>
-        <version>7.6</version>
-		<change>Version 7.6 Fix Bugs</change>
+<changes>
+        <version>8.2</version>
+		<change>Add movie, tv show, actors and movielist's review.</change>
         <change>Fix Bugs</change>
 	</changes>
 	<changes>
@@ -11,5 +11,10 @@
 		<change>Add subscene and google search for subtitles</change>
 		<change>Add a switch in settings to control tv shows play next episode automatically</change>
 		<change>Fix Other Bugs</change>
+	</changes>
+	<changes>
+        <version>7.6</version>
+		<change>Version 7.6 Fix Bugs</change>
+        <change>Fix Bugs</change>
 	</changes>
 </changelog>
