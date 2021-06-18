@@ -1,4 +1,12 @@
 <changelog>
+    <changes>
+        <version>9.2</version>
+        <change>Optimize the account security</change>
+        <change>Fix the crash issue that when start play and rotate the screen at the same time with default player</change>
+        <change>Disabled the pan gestures while vlc player screen is locked</change>
+        <change>Add a switch in settings to control tv shows play next episode automatically</change>
+        <change>Fix some other known issues</change>
+    </changes>
 <changes>
         <version>8.2</version>
 		<change>Add movie, tv show, actors and movielist's review.</change>
