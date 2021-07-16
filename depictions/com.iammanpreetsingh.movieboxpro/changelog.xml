@@ -1,5 +1,12 @@
 <changelog>
     <changes>
+        <version>9.4</version>
+        <change>Optimize performance, fix the crash issue on old devices</change>
+        <change>Add the long press to delete continue playing</change>
+        <change>Can jump to playing history conveniently by check more button at continue playing</change>
+        <change>Fix some other known issues</change>
+    </changes>
+    <changes>
         <version>9.2</version>
         <change>Optimize the account security</change>
         <change>Fix the crash issue that when start play and rotate the screen at the same time with default player</change>

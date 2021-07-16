@@ -1,11 +1,11 @@
 <package>
     <id>com.iammanpreetsingh.movieboxpro</id>
 	<name>MovieBoxPro</name>
-    <version>9.2</version>
+    <version>9.4</version>
 	<compatibility>
 		<firmware>
             <miniOS>11.0</miniOS>
-            <maxiOS>14.5</maxiOS>
+            <maxiOS>14.6</maxiOS>
             <otherVersions>unconfirmed</otherVersions>
             <!--
             for otherVersions, you can put either unsupported or unconfirmed
@@ -29,11 +29,10 @@
     </screenshots>
 	<changelog>
         <changes>
-            <version>9.2</version>
-            <change>Optimize the account security</change>
-            <change>Fix the crash issue that when start play and rotate the screen at the same time with default player</change>
-            <change>Disabled the pan gestures while vlc player screen is locked</change>
-            <change>Add a switch in settings to control tv shows play next episode automatically</change>
+            <version>9.4</version>
+            <change>Optimize performance, fix the crash issue on old devices</change>
+            <change>Add the long press to delete continue playing</change>
+            <change>Can jump to playing history conveniently by check more button at continue playing</change>
             <change>Fix some other known issues</change>
         </changes>
 	</changelog>
