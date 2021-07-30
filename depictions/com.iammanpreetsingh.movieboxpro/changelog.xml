@@ -1,5 +1,13 @@
 <changelog>
     <changes>
+        <version>9.5</version>
+        <change>Fix iOS 15 crash issues</change>
+        <change>Support remember last filters for movies and tv shows</change>
+        <change>Fix the issue that cannot play the movie trailers</change>
+        <change>Picture in Picture can be restored from any other interface</change>
+        <change>Can jump to the next episode while playing tv episodes</change>
+    </changes>
+    <changes>
         <version>9.4</version>
         <change>Optimize performance, fix the crash issue on old devices</change>
         <change>Add the long press to delete continue playing</change>
