@@ -1,6 +1,6 @@
 <changelog>
     <changes>
-        <version>9.5</version>
+        <version>9.6</version>
         <change>Fix iOS 15 crash issues</change>
         <change>Support remember last filters for movies and tv shows</change>
         <change>Fix the issue that cannot play the movie trailers</change>

@@ -1,7 +1,7 @@
 <package>
     <id>com.iammanpreetsingh.movieboxpro</id>
 	<name>MovieBoxPro</name>
-    <version>9.5</version>
+    <version>9.6</version>
 	<compatibility>
 		<firmware>
             <miniOS>11.0</miniOS>
@@ -17,6 +17,7 @@
         <description>Best App to Watch Movies and TV Shows with your Family.
             IMPORTANT: RUN UICACHE IF THE ICON DOESN'T SHOW ON THE HOMESCREEN!</description>
 	</descriptionlist>
+    <depiction>https://iammanpreetsingh.github.io/repo/depictions/?p=com.iammanpreetsingh.movieboxpro</depiction>
 	<screenshots>
     <screenshot>
         <description>MovieBoxPro HomePage</description>
@@ -29,7 +30,7 @@
     </screenshots>
 	<changelog>
         <changes>
-            <version>9.5</version>
+            <version>9.6</version>
             <change>Fix iOS 15 crash issues</change>
             <change>Support remember last filters for movies and tv shows</change>
             <change>Fix the issue that cannot play the movie trailers</change>
